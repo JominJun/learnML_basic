@@ -1,5 +1,5 @@
 # Multinomal Classification | 다항 분류
-# Softmax Regression
+# Softmax Classifier
 
 # Softmax function | 확률 값으로 변환하는 과정
 # S(yi) = e^(yi) / Σ_j(e^yi)
